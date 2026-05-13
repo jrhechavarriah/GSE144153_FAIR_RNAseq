@@ -1,0 +1,7 @@
+figure_file,description
+workflow_diagram.png,Vertical workflow diagram summarizing the reproducible data-processing pipeline.
+pca_qc.png,PCA quality-control plot using compact sample labels S1–S6.
+library_size_qc_barplot.png,Library-size QC barplot using compact sample labels S1–S6.
+top50_heatmap_zscore.png,"Heatmap of the top 50 most variable genes using row-wise Z-score values, VG1–VG50 labels, and S1–S6 sample labels."
+top50_sample_gene_dendrograms.png,Dendrogram figure showing hierarchical clustering of samples and the top 50 most variable genes using S and VG labels.
+volcano_plot.png,Exploratory volcano-style plot based on log2 fold change and average CPM expression.

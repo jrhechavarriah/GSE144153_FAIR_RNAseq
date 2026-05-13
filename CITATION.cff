@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Curated RNA-seq Expression Dataset and Reproducible Python Workflow Derived from GSE144153 for FAIR Transcriptomic Analysis of ZNF587-Silenced Human H1 Cells"
+
+message: "If you use this dataset, please cite the associated publication and repository."
+
+authors:
+  - family-names: "Hechavarria-Hernandez"
+    given-names: "Jesus Rafael"
+    orcid: "https://orcid.org/0000-0002-9013-8665"
+    affiliation: "Universidad Ecotec, Research Department, Ecuador"
+
+  - family-names: "Vacacela Gomez"
+    given-names: "Cristian"
+    orcid: "https://orcid.org/0000-0002-9248-9944"
+    affiliation: "University of Calabria, Department of Environmental Engineering (DIAm), Italy"
+
+license: "CC-BY-4.0"

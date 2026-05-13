@@ -1,0 +1,11 @@
+field,value
+title,"Curated RNA-seq Expression Dataset and Reproducible Python Workflow Derived from GSE144153 for FAIR Transcriptomic Analysis of ZNF587-Silenced Human H1 Cells"
+authors,"Jesus Rafael Hechavarria-Hernandez; Cristian Vacacela Gomez"
+affiliations,"Universidad Ecotec, Research Department, Samborondón, Ecuador; University of Calabria, Department of Environmental Engineering (DIAm), Italy"
+corresponding_authors,"jhechavarria@ecotec.edu.ec; cristianisaac.vacacelagomez@fis.unical.it"
+orcid,"0000-0002-9013-8665; 0000-0002-9248-9944"
+dataset_source,"NCBI GEO GSE144153"
+license,"CC BY 4.0"
+repository_type,"Curated FAIR transcriptomic dataset"
+language,"English"
+platform,"Python / Google Colab"

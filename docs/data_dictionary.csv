@@ -1,0 +1,22 @@
+file,description
+raw_counts_matrix.csv,Raw RNA-seq gene count matrix
+cpm_normalized_matrix.csv,CPM-normalized transcriptomic matrix
+cpm_filtered_matrix.csv,Filtered CPM matrix after low-expression filtering
+preliminary_fold_change_summary.csv,Exploratory fold-change summary table
+preliminary_differential_expression.csv,Backward-compatible copy of exploratory fold-change summary
+volcano_plot_table.csv,Exploratory volcano-style transcriptomic summary
+pca_coordinates.csv,PCA coordinates for transcriptomic samples
+library_size_qc.csv,Library-size quality-control summary
+top50_variable_genes_log2cpm.csv,Log2 CPM matrix for top variable genes
+top50_variable_genes_zscore.csv,Z-score normalized top variable genes
+top50_variable_genes_zscore_labeled.csv,Z-score matrix using simplified VG labels
+sample_label_mapping.csv,Mapping between simplified sample labels and GEO sample identifiers
+gene_label_mapping.csv,Mapping between simplified variable gene labels and Ensembl identifiers
+figure_manifest.csv,Manifest describing all generated figures
+dataset_metadata.csv,Dataset-level FAIR metadata
+workflow_diagram.png,Workflow diagram for reproducible processing
+pca_qc.png,PCA quality-control visualization
+library_size_qc_barplot.png,Library-size QC barplot
+top50_heatmap_zscore.png,Heatmap of top variable genes using row-wise Z-score
+top50_sample_gene_dendrograms.png,Hierarchical clustering dendrograms for samples and genes
+volcano_plot.png,Exploratory volcano-style visualization
