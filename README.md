@@ -87,6 +87,7 @@ Compact labels are used to improve readability and maintain publication-quality 
 | S4 | GSM4282201_sh587 | sh587 |
 | S5 | GSM4282202_shE | shE |
 | S6 | GSM4282203_sh587 | sh587 |
+| S7 | GSM4282204_sh587 | sh587 |
 
 The complete mapping is available in:
 
