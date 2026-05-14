@@ -20,3 +20,4 @@ library_size_qc_barplot.png,Library-size QC barplot
 top50_heatmap_zscore.png,Heatmap of top variable genes using row-wise Z-score
 top50_sample_gene_dendrograms.png,Hierarchical clustering dendrograms for samples and genes
 volcano_plot.png,Exploratory volcano-style visualization
+Repository DOI: https://doi.org/10.5281/zenodo.20180990

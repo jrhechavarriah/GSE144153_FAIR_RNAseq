@@ -1,5 +1,19 @@
 # Download and Processing Protocol
 
+## Citation
+
+If you use this dataset, please cite the associated repository and publication.
+
+Hechavarria-Hernandez, J. R., & Vacacela Gomez, C. (2026). Curated RNA-seq Expression Dataset and Reproducible Python Workflow Derived from GSE144153 for FAIR Transcriptomic Analysis of ZNF587-Silenced Human H1 Cells [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.20180990
+
+## Repository DOI
+
+https://doi.org/10.5281/zenodo.20180990
+
+## GitHub Repository
+
+https://github.com/jrhechavarriah/GSE144153_FAIR_RNAseq
+
 ## Original data source
 
 NCBI GEO accession:
@@ -7,22 +21,7 @@ GSE144153
 
 Original study attribution:
 
-Turelli et al., *Science Advances* (2020).  
-DOI: 10.1126/sciadv.aba3200
-
-## Local organization
-
-The repository stores derived resources in:
-
-```text
-GSE144153_FAIR_RNAseq/
-```
-
-The original GEO archive and extracted count files are downloaded outside the repository into:
-
-```text
-../data/
-```
+Turelli, P., Playfoot, C., Grun, D., Raclot, C., Pontis, J., Coudray, A., Thorball, C., Duc, J., Pankevich, E. V., Deplancke, B., Busskamp, V., & Trono, D. (2020). Primate-restricted KRAB zinc finger proteins and target retrotransposons control gene expression in human neurons. Science Advances, 6(35), eaba3200. https://doi.org/10.1126/sciadv.aba3200
 
 This design avoids redistributing original raw data in the repository ZIP.
 

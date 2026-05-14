@@ -3,6 +3,12 @@ title: "Curated RNA-seq Expression Dataset and Reproducible Python Workflow Deri
 
 message: "If you use this dataset, please cite the associated publication and repository."
 
+## Citation
+
+Hechavarria-Hernandez, J. R., & Vacacela Gomez, C. (2026). Curated RNA-seq Expression Dataset and Reproducible Python Workflow Derived from GSE144153 for FAIR Transcriptomic Analysis of ZNF587-Silenced Human H1 Cells [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.20180990
+
+repository-code: https://github.com/jrhechavarriah/GSE144153_FAIR_RNAseq
+
 authors:
   - family-names: "Hechavarria-Hernandez"
     given-names: "Jesus Rafael"
